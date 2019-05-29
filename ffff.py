@@ -1,0 +1,1 @@
+    print(line.strip().split(";")[0:])
