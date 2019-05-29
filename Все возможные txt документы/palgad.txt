@@ -1,0 +1,5 @@
+Aadu Suur;56;2500
+Malle Kapsas;42;1500
+Uudo Koba;32;700
+Tiit Kopikas;22;550
+Vahur Vana;67;870
